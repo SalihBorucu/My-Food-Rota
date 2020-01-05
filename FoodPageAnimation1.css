@@ -1,0 +1,83 @@
+#tomato {
+    max-height: 20%;
+    max-Width: 20%;
+}
+
+#pepper{
+    max-height: 20%;
+    max-Width: 20%;  
+}
+
+#chilli{
+    max-height: 20%;
+    max-Width: 30%;
+}
+
+#carrot{
+    max-height: 25%;
+    max-Width: 25%;
+}
+
+#strawberry{
+    max-height: 25%;
+    max-Width: 25%;
+}
+
+#eggplant{
+    max-height: 25%;
+    max-Width: 25%;
+
+}
+
+#cucumber{
+    max-height: 15%;
+    max-width: 75%; 
+}
+
+
+h1{
+    text-align: center;
+    font-family: coaster_quake_-_personal_usRg;
+    font-size: 235px;
+    padding: 0px;
+    margin: 0%;
+    border: 0px;
+}
+
+.bottom-column
+{
+    float: none;
+    display: table-cell;
+    vertical-align: bottom;
+}
+
+#bottom-row{
+    /* background-color: beige; */
+    padding: -5px;
+    margin: -45px;
+    /* border: -15px; */
+}
+#middle{
+    padding:0px;
+    border:0px;
+    margin:10px;
+    /* background-color: blue; */
+}
+#bottom{
+    /* background-color: red;  */
+    
+}
+.row{
+    height: 200px;
+    /* background:red; */
+}
+
+
+@font-face {
+    font-family: 'coaster_quake_-_personal_usRg';
+    src: url('fonts/coaster_quake_-_personal_use-webfont.woff2') format('woff2'),
+         url('fonts/coaster_quake_-_personal_use-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
